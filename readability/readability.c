@@ -80,7 +80,7 @@ int count_words(string text)
     return n_w;
 }
 
-// returs number of sentences
+// returs number of sentencess
 int count_sentences(string text)
 {
     int n_s = 0;
