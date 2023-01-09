@@ -1,0 +1,14 @@
+1) If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+    The six chosen colors that go into the makeup of an individual’s audio aura are purple, green, pink, orange, yellow, and blue.
+    Per Spotify, purple represents passionate people who listen to music to “get amped up, entertained, and moving,”
+    while people with a green aura are said to be “calm, analytical, and introspective”.
+    Such people typically tune in to “complex music to tame their fast-moving minds,” said Spotify.
+    Pink represents the hopelessly romantic and the music they listen to is also mostly optimistic and filled with wonder, just like the listeners themselves.
+    People with an orange aura are rebellious and prefer “high-energy, confidence-boosting sounds,” while people with yellow auras want their music to keep them focused and motivated.
+    Finally, blue represents emotional people and they typically choose music that expresses their feelings perfectly.
+
+    In this case it would have an Aura: purple and orange.
+
+2) Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?
+    By talking to Spotify. Example -> Roberto said that audio auras are an extension of each individual as most people listen to music to soothe their souls
+    rather than pretend to be someone they are not. “I feel so connected to Audio Auras because whatever that reflects, it’s an extension of you.
